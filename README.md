@@ -108,6 +108,7 @@ This project was created as part of the Google Data Analytics Certificate Capsto
 
 ## Author
 Arshalisha Abellera
+
 Google Data Analytics Certificate - Capstone Project
 
 GitHub: https://github.com/abelleraa98
