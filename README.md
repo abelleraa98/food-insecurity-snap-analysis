@@ -81,13 +81,14 @@ This project examines the relationship between need and assistance through four 
 ---
 
 ## Repository Structure
-
+```
 analyis/
 cleaned/
 data/
 visualizations/
 report/
 README.md
+```
 
 ---
 
