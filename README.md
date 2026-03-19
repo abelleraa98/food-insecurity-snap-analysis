@@ -4,9 +4,11 @@
 
 ## Project Overview
 
-Food insecurity remains a persistent issue in the United States, affecting millions of households each year. Government assistance programs such as the Supplemental Nutrition Assistance Program (SNAP) are designed to reduce food insecurity by providing financial support for food access.
+Food insecurity remains a significant issue across the United States, with some states experiencing disproportionately higher rates than others. Understanding how food insecurity varies and what factors contribute to it is essential for improving support systems and policy decisions.
 
-This project analyzes the relationship between food insecurity, poverty, and SNAP participation in the United States. By comparing measures of need (poverty and food insecurity) with measures of assistance (SNAP participation and benefits), the analysis aims to identify potential gaps between those who need support and those who receive it. 
+This project analyzes state-level data to examine how food insecurity relates to key socioeconomic factors, including poverty and access to assistance programs such as SNAP (Supplemental Nutrition Assistance Program). By combining data from multiple sources and applying exploratory data analysis, this study identifies patterns, relationships, and gaps in support. 
+
+The analysis focuses on answering three core questions: where food insecurity is most severe, how strongly it is associated with poverty, and whether existing assistance programs align with areas of greatest need. The findings aim to provide insight into how economic conditions and resource distribution influence food insecurity outcomes across states. 
 
 ---
 
