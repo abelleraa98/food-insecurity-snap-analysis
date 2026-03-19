@@ -12,15 +12,15 @@ The analysis focuses on answering three core questions: where food insecurity is
 
 ---
 
-## Research Question
+## Research Questions
 
 **Primary Question**
 
-How do poverty and food insecurity compare to SNAP participants in the United States?
+How does food insecurity vary across U.S. states, and what factors contribute to these differences?
 
 **Secondary Questions**
-- How does poverty relate to food insecurity?
-- How do SNAP benefits align with food insecurity levels?
+- What is the relationship between poverty rates and food insecurity?
+- How do SNAP benefits align with food insecurity levels across states?
 - How is food insecurity distributed across states?
 
 ---
@@ -86,23 +86,23 @@ The following visualizations were created to analyze food insecurity trends and 
 
 ## Analysis Plan
 
-This project examines the relationship between need and assistance through four key analyses:
+This project analyzes food insecurity across U.S. states using exploratory data analysis to identify patterns, relationships, and distribution trends.
 
-1. **Food Insecurity by State**
+1. **Identifying High Food Insecurity States**
 
-    Analyze how food insecurity varies across states.
+   A bar chart was used to highlight the top 10 states with the highest food insecurity rates, allowing for a clear comparison of where the issue is most severe.
 
-2. **Poverty and Food Insecurity**
+2. **Examining the Relationship Between Poverty and Food Insecurity**
 
-   Examine the relationship between poverty rates and food insecurity rates.
+   A scatter plot was used to analyze the relationship between poverty rates and food insecurity, helping determine whether higher poverty levels are associated with increased food insecurity.
 
-3. **SNAP Participation and Food Insecurity**
+3. **Evaluating SNAP Benefits Distribution**
 
-   Compare SNAP participation levels with insecurity rates.
+   A scatter plot was used to examine how SNAP benefits relate to food insecurity levels, providing insight into whether assistance aligns with areas of greatest need.
 
-4. **SNAP Benefits and Food Insecurity**
+4. **Analyzing the Distribution of Food Insecurity**
 
-   Explore whether higher SNAP benefits correspond with lower food insecurity.
+   A histogram was used to visualize how food insecurity rates are distributed across states, identifying patterns, clustering, and variability.
 
 ---
 
@@ -129,9 +129,15 @@ README.md
 
 ## Future Work
 
-- Expand analysis to multiple years
-- Incorporate additional economic variables (income, unemployment)
-- Explore program-level policy differences across states
+- **Incorporate State Population Data:** Adjust SNAP participation and benefits into per-capita measures to improve comparability across states of different sizes.
+
+- **Expand Time-Based Analysis:** Include multiple years of data to analyze trends over time and identify whether food insecurity is improving or worsening.
+
+- **Explore Additional Socioeconomic Factors:** Integrate variables such as unemployment rates, cost of living, and housing instability to better understand drivers of food insecurity.
+
+- **Conduct Policy-Level Analysis:** Compare state-level policies and support programs to identify strategies associated with lower food insecurity rates.
+
+- **Improve Data Granularity:** Analyze county- or city-level data to uncover localized patterns that may be hidden in state-level analysis.
 
 ---
 
